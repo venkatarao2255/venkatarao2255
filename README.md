@@ -3,7 +3,7 @@
 ### 📫 Contact Me 
 - **Email:** dvenkatarao952@gmail.com  
 - **Phone:** +91-6304880723  
-- **[LinkedIn](https://linkedin.com/venkatarao-dasari)** 
+- **[LinkedIn](https://www.linkedin.com/in/venkatarao-dasari/)** 
 
 ---
 
