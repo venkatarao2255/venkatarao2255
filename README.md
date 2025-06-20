@@ -6,8 +6,22 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=30&duration=3000&pause=800&color=FF5F6D&center=true&vCenter=true&repeat=false&width=450&lines=🔥+My+Work+In+Action+💪" alt="Animated My Work Banner" />
 </h2>
-
 <table>
+   <tr>
+   <td width="50%">
+      <img src="https://media1.tenor.com/images/f772a295d02ed4bbec27ffc43cc17f96/tenor.gif?itemid=12232217" alt="1st class pg preview" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&repeat=false&width=300&lines=🏠+FirstClass+PG" alt="FirstClass PG Title" />
+      <p>Website developed to showcase and manage PG details for easy discovery and access.</p>
+      <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js, EmailJS</p>
+      <p><em>Explore the site: <a href="https://firstclasspg.vercel.app/" target="_blank">Visit Here</a></em></p>
+    </td>
+   
+  </tr>
+</table>
+<table>
+ 
   <tr>
     <td width="50%" align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&repeat=false&width=300&lines=♟️+Chess+Game" alt="Chess Game Title" />
