@@ -81,7 +81,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkatarao-dasari/" target="_blank">
+  <a href="https://www.linkedin.com/in/venkatarao-dasari-/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="LinkedIn Badge" width="60" height="60" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
