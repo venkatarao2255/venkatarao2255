@@ -1,91 +1,167 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Venkatarao+Dasari;Explore+my+work..!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Venkatarao+Dasari;AI+%7C+Full-Stack+Engineer;Building+Smart+Systems+🚀" />
 </h1>
 
+<h3 align="center">
+🎓 B.Tech CSE (Cyber Security) | 💻 AI-Native Engineer | ☁️ Azure Certified  
+</h3>
+
+<p align="center">
+📍 Mohan Babu University, Tirupati &nbsp; | &nbsp; 📊 CGPA: 8.4/10  
+</p>
+
+---
+
+<!-- ABOUT ME -->
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+I build <b>AI-powered full-stack systems</b> that solve real-world problems using  
+<b>LLMs, RAG, and scalable backend architectures</b>.  
+<br><br>
+💡 Strong in <b>DSA (700+ problems solved)</b> and system design fundamentals  
+🧠 Focused on <b>AI Engineering + Backend Development</b>  
+🎯 Goal: Crack top product-based companies (Google-level 🚀)
+</p>
+
+---
+
+<!-- PROJECTS -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=30&duration=3000&pause=800&color=FF5F6D&center=true&vCenter=true&repeat=false&width=450&lines=🔥+My+Work+In+Action+💪" alt="Animated My Work Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=28&duration=3000&pause=800&color=FF5F6D&center=true&vCenter=true&repeat=false&width=450&lines=🔥+Featured+Projects" />
 </h2>
-<table>
-   <tr>
-   <td width="50%">
-      <img src="https://media1.tenor.com/images/f772a295d02ed4bbec27ffc43cc17f96/tenor.gif?itemid=12232217" alt="1st class pg preview" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&repeat=false&width=300&lines=🏠+FirstClass+PG" alt="FirstClass PG Title" />
-      <p>Website developed to showcase and manage PG details for easy discovery and access.</p>
-      <p><strong>Tech Stack:</strong> MongoDB, Express.js, React.js, Node.js, EmailJS</p>
-      <p><em>Explore the site: <a href="https://firstclasspg.vercel.app/" target="_blank">Visit Here</a></em></p>
-    </td>
-   
-  </tr>
-</table>
-<table>
- 
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&repeat=false&width=300&lines=♟️+Chess+Game" alt="Chess Game Title" />
-      <p>Interactive chess game allowing users to play against another player in real-time.</p>
-      <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
-      <p><em>See this is my Chess Game app: <a href="https://venkatarao2255.github.io/chessGame/" target="_blank">Play Here</a></em></p>
-    </td>
-    <td width="50%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNoMHBzZXB2aWU5anVkZDZ2M280Yjc2MHFucG90MTNmeGc5Ym1qcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJtdD0BtR9aOVMaxOl/giphy.gif" alt="Chess Game Preview" width="100%">
-    </td>
-  </tr>
-</table>
 
 <table>
-  <tr>
-    <td width="50%">
-      <img src="https://cdn.dribbble.com/userupload/22556263/file/original-16af7ba53e20a7d935521c2e5c7cd5ec.gif" alt="Gallery App Preview" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&repeat=false&width=300&lines=🖼️+MyGalleryShop" alt="Gallery Title" />
-      <p>Real-time photo gallery app with Firebase for cloud image uploads and a unique “hide photo” feature for privacy.</p>
-      <p><strong>Tech Stack:</strong> React.js, Firebase</p>
-      <p><em>See this is my Gallery app: <a href="https://mygallerio.netlify.app/" target="_blank">View Here</a></em></p>
-    </td>
-  </tr>
+
+<tr>
+<td width="50%">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
+</td>
+<td width="50%" align="center">
+
+### 🧠 AI Learning Assistant  
+<b>RAG + LLM + Code Evaluation System</b>
+
+✔ Built an AI tutor for DSA with context-aware responses  
+✔ Implemented RAG to reduce hallucination in LLM outputs  
+✔ Developed Java-based code execution & feedback engine  
+
+<b>Tech Stack:</b> React, Node.js, Express, LLM APIs, RAG, Java  
+
+🔗 <a href="https://github.com/venkatarao2255/ai-learning-assistant">View Project</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🗄️ AI SQL Assistant  
+<b>Natural Language → SQL using RAG</b>
+
+✔ Converts user queries into accurate SQL statements  
+✔ Uses schema-aware prompting for high accuracy  
+✔ Real-time query execution system  
+
+<b>Tech Stack:</b> React, Node.js, MySQL, LLM APIs, RAG  
+
+🔗 <a href="#">View Project</a>
+
+</td>
+<td width="50%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%">
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="https://cdn.dribbble.com/userupload/22556263/file/original-16af7ba53e20a7d935521c2e5c7cd5ec.gif" width="100%">
+</td>
+<td width="50%" align="center">
+
+### 🖼️ MyGalleryShop  
+
+✔ Cloud-based photo sharing platform  
+✔ Firebase authentication + secure storage  
+✔ Deployed with scalable frontend  
+
+<b>Tech Stack:</b> React, Firebase, Vercel  
+
+🔗 <a href="https://mygallerio.netlify.app/">Live Demo</a>
+
+</td>
+</tr>
+
 </table>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&repeat=false&width=300&lines=📰+News+Application" alt="News Title" />
-      <p>Live news updates powered by external APIs, built with full MERN stack and dynamic backend integration.</p>
-      <p><strong>Tech Stack:</strong> React.js, Express.js, Node.js, MongoDB</p>
-    </td>
-    <td width="50%">
-      <img src="https://proeffico.com/wp-content/uploads/2023/10/app-development-1.gif" alt="News App Preview" width="100%">
-    </td>
-  </tr>
-</table>
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://i.pinimg.com/originals/1d/68/c5/1d68c59cb08d4d3fcf29f1f9474de7fa.gif" alt="Weather App Preview" width="100%">
-    </td>
-    <td width="50%" align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&repeat=false&width=300&lines=🌦️+Weather+App" alt="Weather Title" />
-      <p>Responsive weather app that fetches and displays real-time weather conditions based on user location.</p>
-      <p><strong>Tech Stack:</strong> React.js, OpenWeather API</p>
-    </td>
-  </tr>
-</table>
+<!-- EXPERIENCE -->
+<h2 align="center">💼 Experience</h2>
 
-<!-- Animated Connect Section -->
+<p align="center">
+<b>MERN Stack Intern</b> – Edunet Foundation (EY GDS)  
+<br>📅 Sep 2024 – Nov 2024  
+</p>
+
+<p align="center">
+✔ Built <b>TravelLog</b> (full-stack MERN app)  
+✔ Implemented authentication + real-time chat  
+✔ Worked with Firebase storage & scalable architecture  
+</p>
+
+---
+
+<!-- SKILLS -->
+<h2 align="center">⚡ Tech Stack</h2>
+
+<p align="center">
+
+<b>Languages:</b> Java, Python, JavaScript, SQL  
+<br><br>
+
+<b>AI Engineering:</b> RAG, Prompt Engineering, LangChain, LLM APIs  
+<br><br>
+
+<b>Full Stack:</b> React.js, Node.js, Express.js, REST APIs  
+<br><br>
+
+<b>Cloud & Tools:</b> Azure (AZ-900), Firebase, Git, GitHub  
+<br><br>
+
+<b>Core CS:</b> DSA (700+), OOP, OS, DBMS  
+
+</p>
+
+---
+
+<!-- ACHIEVEMENTS -->
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+
+🏅 Microsoft Certified: Azure Fundamentals (AZ-900)  
+<br>
+💻 Solved 700+ DSA problems (LeetCode, GFG, HackerRank)  
+<br>
+⭐ HackerRank SQL (Advanced) + 5★ in Java  
+
+</p>
+
+---
+
+<!-- CONNECT -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=25&duration=3000&pause=1000&color=00C897&center=true&vCenter=true&repeat=false&width=450&lines=🤝+Let's+Connect+Together!" alt="Connect Header Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=800&size=25&duration=3000&pause=1000&color=00C897&center=true&vCenter=true&repeat=false&width=450&lines=🤝+Let's+Connect!" />
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/venkatarao-dasari-/" target="_blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/2018-social-media-app-logos/1000/2018_social_media_popular_app_logo_linkedin-512.png" alt="LinkedIn Badge" width="60" height="60" />
+  <a href="https://www.linkedin.com/in/venkatarao-dasari-/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:dvenkatarao952@gmail.com" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/021/514/701/non_2x/google-gmail-logo-symbol-design-illustration-with-black-background-free-vector.jpg" alt="Email Icon" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:dvenkatarao952@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60">
   </a>
 </p>
